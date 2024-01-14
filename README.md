@@ -10,7 +10,7 @@
 </p>&nbsp;&nbsp;
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/miragekamran/miragekamran"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/habibfedaee/habibfedaee"></a>
 </p>&nbsp;&nbsp;
 
 <p align='center'>
@@ -23,7 +23,7 @@
 
 
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
@@ -33,4 +33,4 @@
 
 - 💬 Ask me about **React, Redux, JS, Python, Java**
 
-- 📫 I can be reachable at **habib.fedaee@outlook.com**
+- 📫 I can be reachable at **habib.fedaee@gmail.com**
