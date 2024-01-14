@@ -19,7 +19,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfedaee&layout=compact" alt="habibfedaee" />
 </p>&nbsp;&nbsp;
 
-<img align = "center" alt= "github stats" src="https://github-readme-stats.vercel.app/api?username=habibfedaee"/>
+<p align='center'> <img align = "center" alt= "github stats" src="https://github-readme-stats.vercel.app/api?username=habibfedaee"/> </p>
 <p align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibfedaee&show_icons=true&theme=radical" alt="habibfedaee" /></p>&nbsp;&nbsp;
 
