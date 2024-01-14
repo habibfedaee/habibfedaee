@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Habib</h1>
+<h1 align="center">I'm Habib 👋</h1>
 <h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from California.</h3>&nbsp;&nbsp;
 
 
@@ -8,20 +8,16 @@
     <a href="https://www.linkedin.com/in/habibullah-fedaee/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>&nbsp;&nbsp;
-
-
-
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/habibfedaee/habibfedaee"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/habibfedaee/habibfedaee&show_icons=true&theme=radical"></a>
 </p>&nbsp;&nbsp;
 
-<p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfedaee&layout=compact" alt="habibfedaee" />
-</p>&nbsp;&nbsp;
 
-<p align='center'> <img align = "center" alt= "github stats" src="https://github-readme-stats.vercel.app/api?username=habibfedaee&layout=compact"/> </p>
-<p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibfedaee&show_icons=true&theme=radical" alt="habibfedaee" /></p>&nbsp;&nbsp;
+<p align='center'><img width='47%' alt='most languages used'src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfedaee&layout=compact&hide_progress=true&show_icons=true&theme=radical"/> </p>
+
+<p align='center'> 
+    <img  width='47%' src="https://github-readme-stats.vercel.app/api?username=habibfedaee&show_icons=true&theme=radical" alt="habibfedaee" />
+</p>&nbsp;&nbsp;
 
 
 
