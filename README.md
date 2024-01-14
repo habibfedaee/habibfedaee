@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>&nbsp;&nbsp;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibfedaee)](https://github.com/habibfedaee/github-readme-stats)
+
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/habibfedaee/habibfedaee"></a>
 </p>&nbsp;&nbsp;
